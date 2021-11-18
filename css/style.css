@@ -1,0 +1,78 @@
+.jumbotron{
+    padding-top:15%;
+    padding-bottom: 20%;
+    background-image:url("../img/jumbotron3.jpg");
+    background-size:cover;  
+}
+body .card{
+    background-color: white;
+}
+.aboutme{
+    margin-top: 15%;
+}
+
+.name .card{
+    margin-top:40px;
+}
+
+.about .row{
+    padding-bottom: 100px;
+}
+
+#html{
+    padding-left:3rem;
+}
+
+#css{
+    padding-left:20px;
+}
+
+#php{
+    padding-left:20px;
+}
+
+#setupserverwebhost{
+    padding-left:20px;
+    padding-buttom: 10px;
+}
+
+#skill3{
+    padding-left:2rem;
+}
+
+
+#skills{
+    background-color:white;
+}
+#skills #card{
+    background-color: white;
+    height: 550px;
+}
+#myskills{
+    margin-bottom: 20px;
+}
+
+#python{
+    padding-left:20px;
+}
+
+#portofolio{
+    background-image:url(../img/jumbtron.jpg);
+    margin-top:40px;
+
+}
+
+.portofolio .row{
+    padding-bottom: 25px;
+}
+
+.contact{
+    background-color:white;
+    margin-buttom: 40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#contactus{
+    margin-buttom:10px;
+}
+
